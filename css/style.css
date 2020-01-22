@@ -1,0 +1,50 @@
+body {
+    background-image: url('../images/bg.jpg');
+    /* Faz a imagem caber na tela */
+    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    text-align: center;
+    color: rgb(102, 100, 100);
+}
+.profile {
+    border-radius: 50%;
+    width: 20%;
+    border: 5px solid rgb(102, 100, 100);
+}
+.text {
+    font-size: 40px;
+}
+.link {
+    text-decoration: none;
+    color: rgb(102, 100, 100);
+    font-size: 20px;
+}
+/* O hover acontece quando o mouse passa por cima */
+.link:hover {
+    text-decoration: none;
+    color: rgb(153, 152, 152);
+    font-size: 20px;
+}
+.space {
+    margin-right: 15px;
+}
+.btm {
+    border: 1px solid transparent;
+    padding: .375rem .75rem;
+    border-radius: .25rem;
+    color: white;
+    background-color: rgb(75, 74, 74);
+    border-color: rgb(75, 74, 74);
+    text-decoration: none;
+}
+.btm:hover {
+    border: 1px solid transparent;
+    padding: .375rem .75rem;
+    border-radius: .25rem;
+    color: white;
+    background-color: rgb(153, 152, 152);
+    border-color: rgb(153, 152, 152);
+    text-decoration: none;
+}
