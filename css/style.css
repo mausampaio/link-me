@@ -28,6 +28,10 @@ header {
 }
 .text {
     font-size: 40px;
+    font-family: 'ZCOOL QingKe HuangYou', cursive;
+}
+a, button {
+    font-family: 'ZCOOL QingKe HuangYou', cursive;
 }
 .link {
     text-decoration: none;
