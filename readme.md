@@ -4,9 +4,11 @@
   <img src="http://apexensino.com.br/wp-content/uploads/2017/11/html-css-javascript.jpg">
 </p>
 
-**Demo** [Link-me](https://mausampaio.github.io/link-me/)
+## Demo
 
-**Tecnologias utilizadas**
+[Link-me](https://mausampaio.github.io/link-me/)
+
+## Tecnologias utilizadas
 
 > HTML  
 > CSS  
@@ -15,6 +17,6 @@
 > Google Fonts  
 > Google Analytics  
 
-**Desenvolvedor**
+## Desenvolvedor
 
 Maurício Sampaio
