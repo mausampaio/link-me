@@ -1,6 +1,8 @@
 ﻿# Link-me
 
-<center>![](http://apexensino.com.br/wp-content/uploads/2017/11/html-css-javascript.jpg)</center>
+<p align="center">
+  <img src="http://apexensino.com.br/wp-content/uploads/2017/11/html-css-javascript.jpg">
+</p>
 
 **Demo** [Link-me](https://mausampaio.github.io/link-me/)
 
