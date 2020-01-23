@@ -31,7 +31,8 @@ header {
     font-family: 'ZCOOL QingKe HuangYou', cursive;
 }
 a, button {
-    font-family: 'ZCOOL QingKe HuangYou', cursive;
+    font-size: 20px !important; 
+    font-family: 'ZCOOL QingKe HuangYou', cursive !important;
 }
 .link {
     text-decoration: none;
